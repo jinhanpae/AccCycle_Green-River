@@ -15,8 +15,8 @@ const exerciseConfig = {
   tbEntityName: "Green River Computer Consultants – Trial Balance",
 
   // Mode: "exercise" (feedback & grading) or "test" (no feedback / grading)
-  mode: "exercise",
-  // mode: "test",
+  // mode: "exercise",
+  mode: "test",
 
   // How to label the starting balances in the ledger:
   // "beginning"  → “Beginning balance”
